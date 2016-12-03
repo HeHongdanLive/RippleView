@@ -1,7 +1,6 @@
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-RippleView-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/923)
 
-#RippleView
-
+#RippleView_按钮水纹
 View that imitates Ripple Effect on click which was introduced in Android L.
 
 ![Sample Screenshot](https://raw.github.com/siriscac/RippleView/master/Screens/Screen.gif)
